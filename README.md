@@ -1,7 +1,7 @@
 ### Olá, eu sou o Kalebe! 👋
 
-- 🔭 Hoje trabalho com Manutenção de Computadores
-- 🌱 Estudando Java, Python e HTML/CSS
+- 🔭 Sou Técnico em Informática e gosto de trabalhar com programação
+- 🌱 Estudando Java, C++ e PHP
 - 🤔 Gosto de tomar café
 
 <div>
