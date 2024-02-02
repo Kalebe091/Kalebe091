@@ -19,7 +19,7 @@
   <img align="center" alt="Kalebe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Kalebe-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     
-  <img align="right" alt="Kalebe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/758374788858511463/928404409275252736/unknown.png">
+  <img align="right" alt="Kalebe-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1725711593126633472/WdWOgsgR_400x400.jpg">
 </div>
   
 ##
