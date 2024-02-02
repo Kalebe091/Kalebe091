@@ -1,6 +1,6 @@
 ### Olá, eu sou o Kalebe! 👋
 
-- 🔭 Sou Técnico em Informática e gosto de trabalhar com programação
+- 🔭 Estudante de Engenharia de Software - UEPA
 - 🌱 Estudando Java, C++ e PHP
 - 🤔 Gosto de tomar café
 
