@@ -1,8 +1,8 @@
-### Olá, eu sou o Kalebe! 👋
+### Hello, I'm Kalebe! 👋
 
-- 🔭 Estudante de Engenharia de Software - UEPA
-- 🌱 Estudando Java, C++ e PHP
-- 🤔 Gosto de tomar café
+- 🔭 Software Engineering Student - UEPA
+- 🌱 Studying Java, C++ and PHP
+- 🤔 I like coffee
 
 <div>
   <a href="https://github.com/Kalebe091">
