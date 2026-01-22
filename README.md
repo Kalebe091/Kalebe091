@@ -39,5 +39,8 @@
   
   <br><br>
   
-  <img src="https://github.com/kalebe091/kalebe091/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation">
+###
+  <img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
