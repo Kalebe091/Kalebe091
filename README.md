@@ -40,7 +40,8 @@
   <br><br>
   
 ###
-  <img src="https://raw.githubusercontent.com/professor-rafael/professor-rafael/output/snake.svg" alt="Snake animation" />
+
+  <img src="https://raw.githubusercontent.com/Kalebe091/Kalebe091/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
