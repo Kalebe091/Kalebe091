@@ -2,7 +2,7 @@
 
 - 🔭 **Software Engineering Student** at UEPA | **IT Technician** (IFPA)
 - 💼 Currently working as a **Junior IT Technician** (Support, Networks, and Infrastructure)
-- 🔬 Conducting academic research in **Computer Vision** (Project *Ver-A-Queda*)
+- 🔬 Conducting academic research in **Computer Vision** (DETECÇÃO DE QUEDAS EM AMBIENTES RESIDENCIAIS POR VISÃO COMPUTACIONAL)
 - 🌱 Developing and building projects with **Java (Spring Boot), C++, PHP, Python, and Node.js**
 - ⚡ Fun fact: I like coffee, playing guitar, and 3D printing
 
