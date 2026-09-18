@@ -37,8 +37,8 @@
 ### 🚀 Featured Projects
 
 * **[DETECÇÃO DE QUEDAS EM AMBIENTES RESIDENCIAIS POR VISÃO COMPUTACIONAL](https://recima21.com.br/recima21/pt_BR/article/view/8966)** - Artigo acadêmico publicado na Revista Científica Multidisciplinar RECIMA21.
-* **[SIGEM](https://github.com/Kalebe091/sigem)** - Explore o repositório deste projeto no GitHub.
-* **[Agendamento de Laboratórios](https://github.com/Kalebe091/agendamento-lab)** - Explore o repositório deste projeto no GitHub.
+* **[SIGEM](https://github.com/Kalebe091/sigem)** - Sistema de Gestão Escolar .
+* **[Agendamento de Laboratórios](https://github.com/Kalebe091/agendamento-lab)** - Sistema de Gerenciamento de Laboratórios.
 
 <br>
 
