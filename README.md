@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/Kalebe091">
-      <img height="160" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical"/></a>
+      <img height="160" src="https://github-stats-extended.vercel.app/api?username=Kalebe091&show_icons=true&include_all_commits=true&theme=dark_github"/></a>
   <a href="https://github.com/Kalebe091">
-      <img height="160" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical" alt="Top Languages" />
+      <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=Kalebe091&layout=compact&langs_count=5&theme=dark_github" alt="Top Languages" />
   </a>
 </div>
 
