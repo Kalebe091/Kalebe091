@@ -8,9 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/Kalebe091">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kalebe091&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Kalebe091&show_icons=true&include_all_commits=true&theme=dark_github)  </a>
+      <img height="160" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical"/></a>
   <a href="https://github.com/Kalebe091">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalebe091&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+      <img height="160" src="https://github-stats-extended.vercel.app/api?username=octocat&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
