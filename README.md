@@ -1,6 +1,6 @@
 ### Hello, I'm Kalebe! 👋
 
-- 🔭 **Software Engineering Student** at UEPA | **IT Technician** (IFPA)
+- 🔭 **Software Engineering Student** (UEPA) | **IT Technician** (IFPA)
 - 💼 Currently working as a **Junior IT Technician** (Support, Networks, and Infrastructure)
 - 🔬 Conducting academic research in **Computer Vision** (DETECÇÃO DE QUEDAS EM AMBIENTES RESIDENCIAIS POR VISÃO COMPUTACIONAL)
 - 🌱 Developing and building projects with **Java (Spring Boot), C++, PHP, Python, and Node.js**
